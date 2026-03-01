@@ -43,6 +43,3 @@ To improve retention, the following strategies are proposed to move customers to
 * **Default Settings:** Set autopay as the default option within the mobile application.
 * **Value-Add Bonuses:** Offer bonuses like extra data or specialized add-ons for autopay users.
 * **Communication:** Clearly communicate the benefits of autopay, emphasizing safety, convenience, and the flexibility to cancel at any time.
-
----
-*Note: I’d love to hear your thoughts or feedback on this project—any suggestions or insights are always welcome!*
