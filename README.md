@@ -5,6 +5,9 @@ This project analyzes customer churn using Excel to visualize key insights acros
 
 <img width="1861" height="870" alt="image" src="https://github.com/user-attachments/assets/96f3077f-287a-4a5b-811c-2d77873d90cd" />
 
+
+
+
 <img width="1851" height="877" alt="image" src="https://github.com/user-attachments/assets/89d1f1e9-fc86-45f3-af37-4b4070e93255" />
 
 
